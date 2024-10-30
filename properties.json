@@ -2068,7 +2068,7 @@
         "S50_S3": {
             "class": "spinal_50"
         },
-        "S50_S3-1":{
+        "S50_S3-1": {
             "models": "ILX:0791971",
             "name": "Third sacral nerve"
         },
@@ -4641,10 +4641,10 @@
         "urinary_20-1": {
             "class": "urinary_20"
         },
-        "urinary_21-1": {
+        "upper_ureter": {
             "class": "urinary_21"
         },
-        "urinary_22-1": {
+        "lower_ureter": {
             "class": "urinary_22"
         },
         "plexus_1-1": {
