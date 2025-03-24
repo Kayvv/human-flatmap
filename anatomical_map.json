@@ -31,17 +31,9 @@
         "term": "UBERON:0035965",
         "name": "wall of blood vessel"
     },
-    "urinary_9": {
-        "term": "UBERON:0000483",
-        "name": "epithelium"
-    },
     "urinary_10": {
         "term": "UBERON:0004230",
         "name": "urinary bladder neck smooth muscle"
-    },
-    "urinary_11": {
-        "term": "UBERON:0035965",
-        "name": "wall of blood vessel"
     },
     "urinary_12": {
         "term": "UBERON:0000056",
@@ -703,7 +695,7 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
-	"skeleton_1": {
+    "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
     },
@@ -995,10 +987,6 @@
         "term": "UBERON:0006493",
         "name": "C7 segment of cervical spinal cord"
     },
-    "spinal_8": {
-        "term": "UBERON:0006470",
-        "name": "C8 segment of cervical spinal cord"
-    },
     "spinal_9": {
         "term": "UBERON:0006457",
         "name": "first thoracic spinal cord segment"
@@ -1047,10 +1035,6 @@
         "term": "UBERON:0006468",
         "name": "twelfth thoracic spinal cord segment"
     },
-    "spinal_21": {
-        "term": "ILX:0738431",
-        "name": "thirteenth thoracic spinal cord segment"
-    },
     "spinal_22": {
         "term": "UBERON:0006448",
         "name": "first lumbar spinal cord segment"
@@ -1070,10 +1054,6 @@
     "spinal_26": {
         "term": "UBERON:0006447",
         "name": "fifth lumbar spinal cord segment"
-    },
-    "spinal_27": {
-        "term": "ILX:0738432",
-        "name": "Sixth lumbar spinal cord segment"
     },
     "spinal_28": {
         "term": "UBERON:0006460",
